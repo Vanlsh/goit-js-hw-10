@@ -5,16 +5,16 @@
   |============================
 */
 @import url('./reset.css');
-@import url('./vite-promo.css');
-@import url('./header.css');
+@import url('./timer.css');
+@import url('./fonts.css');
 
 :root {
-  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  font-family: Montserrat, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.5;
   font-weight: 400;
 
-  color: #242424;
+  color: #2e2f42;
   background-color: rgba(255, 255, 255, 0.87);
 
   font-synthesis: none;
