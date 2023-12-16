@@ -5,8 +5,9 @@
   |============================
 */
 @import url('./reset.css');
-@import url('./timer.css');
 @import url('./fonts.css');
+@import url('./timer.css');
+@import url('./snackbar.css');
 
 :root {
   font-family: Montserrat, Avenir, Helvetica, Arial, sans-serif;
