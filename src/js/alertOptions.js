@@ -11,4 +11,16 @@ export const alertOptions = {
     messageColor: '#fff',
     iconColor: '#fff',
   },
+  success: {
+    title: 'OK',
+    message: 'Fulfilled promise in 4000ms',
+    color: '#59A10D',
+    position: 'topRight',
+    icon: 'icon-check-circle',
+    iconText: '',
+    timeout: 5000,
+    titleColor: '#fff',
+    messageColor: '#fff',
+    iconColor: '#fff',
+  },
 };

@@ -24,3 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+body .iziToast > .iziToast-close {
+  background: url('../img/close-min.svg') no-repeat 50% 50%;
+  opacity: 1;
+}
+body .iziToast > .iziToast-close:hover {
+  opacity: 0.6;
+}
